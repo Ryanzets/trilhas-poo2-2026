@@ -1,4 +1,4 @@
-package br.edu.tds.projetopoo;
+package br.edu.tds.Cliente;
 
 /**
  *
